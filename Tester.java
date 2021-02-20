@@ -2,7 +2,7 @@
 /**
  * 2020b - 06/03/2020
  */
-public class Maman13StudentTester
+public class Tester
 {
     public static void main(String []args)
     {
